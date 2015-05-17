@@ -2,3 +2,4 @@
 # Gitチュートリアル
 
 -featureA
+- fix-B
